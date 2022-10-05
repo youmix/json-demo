@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 1, "title": "テスト", "author": "ひろ" },
     { "id": 2, "title": "new title", "author": "lightkun" }
   ],
   "comments": [
